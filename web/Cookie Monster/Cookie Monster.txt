@@ -1,0 +1,5 @@
+Welcome to Cookie Monster!
+
+This website seems to rely heavily on cookies for authentication. Can you manipulate the cookies to gain admin access?
+
+web2.codemetron.cloud
