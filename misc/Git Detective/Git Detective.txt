@@ -1,0 +1,6 @@
+A developer left the company in a hurry. Their git repository is all that's left of their work. Intelligence says a secret was committed at some point, but it's been "removed."
+
+Can you dig through the history and find what was hidden?
+
+https://drive.google.com/drive/folders/1T83Npy3_2YOrN3RooQhyGPReXghZnfup?usp=drive_link
+

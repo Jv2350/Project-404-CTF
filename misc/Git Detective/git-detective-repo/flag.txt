@@ -1,0 +1,3 @@
+CONGRATULATIONS!
+You found the flag: flag{d3l3t3d_d3c0y_c4r3ful_t1m3}
+This is a decoy. The real flag is somewhere else...
