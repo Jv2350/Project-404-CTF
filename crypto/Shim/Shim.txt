@@ -1,0 +1,1 @@
+shim.dat describes four candidate "vibration signature" schemes. Only one of them is real: its public target b is a genuine image — a binary vector e ∈ {0,1}^n with Σ e_i·a_i = b. The other three ship impossible targets ("phantom noise") and accept no preimage at all. The flag is masked with AES-GCM under key SHA256(e), so whoever recovers the honest signature gets the flag.
