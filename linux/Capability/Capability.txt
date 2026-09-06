@@ -1,0 +1,8 @@
+Capability
+250
+ 0  0
+/home/level0/runner carries the cap_setuid capability. It whitelists a few command paths, then calls setuid(0) before execv-ing your command. The whitelist is checked on the binary path only - its arguments are not. Find a whitelisted binary that lets you read root-only files and run it as root.
+
+'level0:password'
+
+linux1.codemetron.cloud

@@ -1,0 +1,5 @@
+A state-of-the-art image classification system protects a secret. The system claims to defend against adversarial attacks — and it's right about the common ones. But every model has blind spots.
+
+Your mission: craft or transform an image that makes the model predict class 7 ("dragon") with enough confidence to unlock the flag. The system actively monitors for pixel-level adversarial perturbations (FGSM, PGD), but it may be blind to other types of transformations.
+
+ai1.codemetron.cloud

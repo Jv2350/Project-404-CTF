@@ -1,0 +1,6 @@
+A production ML classification service is running and making decisions. Your mission: extract the model's decision boundary by querying the API. But be warned — the service has been compromised with label noise that will throw off naive extraction attempts.
+
+The API classifies 2D points as "approved" or "denied". Once you've correctly identified the model's weights, submit them to the /flag-check endpoint to claim your flag.
+
+ai2.codemetron.cloud
+            
