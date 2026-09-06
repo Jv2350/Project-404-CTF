@@ -1,0 +1,6 @@
+We recovered 5 images from a compromised workstation. Intelligence suggests that sensitive information is being hidden using image metadata techniques. Each image may contain different types of metadata.
+
+Your task: examine all 5 images carefully and extract the hidden flag. Be thorough - some metadata techniques are more subtle than others.
+
+Files: image1.jpg, image2.jpg, image3.jpg, image4.jpg, image5.jpg
+

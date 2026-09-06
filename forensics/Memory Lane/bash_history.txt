@@ -1,0 +1,17 @@
+# .bash_history - root
+cd /opt
+ls -la
+cat /etc/passwd
+cat /root/flag.txt
+echo "access granted" > /tmp/.lock
+./flag_server --port 8443 &
+ps aux | grep flag
+curl http://localhost:8443/status
+scp /tmp/data.bin user@10.0.0.5:/tmp/
+rm -f /tmp/.lock
+chmod 600 /root/.ssh/authorized_keys
+nano /etc/crontab
+cat /proc/2150/environ | tr '\0' '\n'
+find / -name "*.pcap" 2>/dev/null
+tcpdump -i eth0 -w capture.pcap &
+hexdump -C /dev/mem | head -20

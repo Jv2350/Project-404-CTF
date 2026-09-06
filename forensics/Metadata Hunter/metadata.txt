@@ -1,0 +1,122 @@
+exiftool image1.jpg image2.jpg image3.jpg image4.jpg image5.jpg 
+======== image1.jpg
+ExifTool Version Number         : 13.55
+File Name                       : image1.jpg
+Directory                       : .
+File Size                       : 18 kB
+File Modification Date/Time     : 2026:09:06 02:36:42-04:00
+File Access Date/Time           : 2026:09:06 02:37:02-04:00
+File Inode Change Date/Time     : 2026:09:06 02:36:47-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Warning                         : Invalid EXIF text encoding for UserComment
+User Comment                    : GPS location: 37.7749°N, 122.4194°W - flag{gps_d3c0y_m3t4d4t4}
+GPS Latitude Ref                : North
+GPS Longitude Ref               : West
+GPS Altitude Ref                : Above Sea Level
+Image Width                     : 320
+Image Height                    : 240
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x240
+Megapixels                      : 0.077
+GPS Altitude                    : 100 m Above Sea Level
+GPS Latitude                    : 37 deg 46' 30.00" N
+GPS Longitude                   : 122 deg 25' 0.00" W
+GPS Position                    : 37 deg 46' 30.00" N, 122 deg 25' 0.00" W
+======== image2.jpg
+ExifTool Version Number         : 13.55
+File Name                       : image2.jpg
+Directory                       : .
+File Size                       : 18 kB
+File Modification Date/Time     : 2026:09:06 02:36:48-04:00
+File Access Date/Time           : 2026:09:06 02:37:24-04:00
+File Inode Change Date/Time     : 2026:09:06 02:36:50-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Description               : Adobe Photoshop CC 2024 - Layer0 - ZmxhZ3twaDB0MHNoMHBfZDNjMHl9
+Image Width                     : 320
+Image Height                    : 240
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x240
+Megapixels                      : 0.077
+======== image3.jpg
+ExifTool Version Number         : 13.55
+File Name                       : image3.jpg
+Directory                       : .
+File Size                       : 18 kB
+File Modification Date/Time     : 2026:09:06 02:36:50-04:00
+File Access Date/Time           : 2026:09:06 02:37:24-04:00
+File Inode Change Date/Time     : 2026:09:06 02:36:51-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Copyright                       : flag{1ptc_f4k3_m3t4d4t4_d3c0y}
+Image Unique ID                 : flag{1ptc_f4k3_m3t4d4t4_d3c0y}
+Image Width                     : 320
+Image Height                    : 240
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x240
+Megapixels                      : 0.077
+======== image4.jpg
+ExifTool Version Number         : 13.55
+File Name                       : image4.jpg
+Directory                       : .
+File Size                       : 5.0 kB
+File Modification Date/Time     : 2026:09:06 02:36:52-04:00
+File Access Date/Time           : 2026:09:06 02:37:23-04:00
+File Inode Change Date/Time     : 2026:09:06 02:36:53-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 400
+Image Height                    : 300
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 400x300
+Megapixels                      : 0.120
+======== image5.jpg
+ExifTool Version Number         : 13.55
+File Name                       : image5.jpg
+Directory                       : .
+File Size                       : 18 kB
+File Modification Date/Time     : 2026:09:06 02:36:54-04:00
+File Access Date/Time           : 2026:09:06 02:37:22-04:00
+File Inode Change Date/Time     : 2026:09:06 02:36:55-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Canon
+Camera Model Name               : Canon EOS R5
+Image Width                     : 320
+Image Height                    : 240
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x240
+Megapixels                      : 0.077
+    5 image files read
+                         

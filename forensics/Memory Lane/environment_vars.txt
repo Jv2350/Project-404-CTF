@@ -1,0 +1,15 @@
+# Environment variables for PID 2150 (worker) - process is DEAD
+# Collected from /proc/2150/environ before cleanup
+HOME=/home/worker
+USER=worker
+PATH=/usr/local/bin:/usr/bin:/bin
+LANG=en_US.UTF-8
+TERM=xterm-256color
+WORKER_ID=wk-2847
+TASK_MODE=compute
+DEPLOY_ENV=production
+SECRET_KEY=flag{d3d_pr0c_d3c0y_env}
+DB_HOST=127.0.0.1
+DB_PORT=5432
+REDIS_URL=redis://localhost:6379/0
+LOG_LEVEL=info

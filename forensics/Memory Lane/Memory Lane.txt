@@ -1,0 +1,5 @@
+We've obtained a partial memory dump from a compromised server. The attacker seems to have covered their tracks, but some artifacts remain in the memory pages. We've extracted key artifacts into a ZIP archive for your analysis.
+
+The dump contains process listings, shell history, environment variables, and raw page cache data. Somewhere in these files, the attacker left behind evidence of what they were after.
+
+Can you piece together the forensic artifacts and find the real flag?

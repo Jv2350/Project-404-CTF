@@ -1,0 +1,5 @@
+ 1 (100% liked)  0
+We've pulled server access logs from a production web server that was compromised last week. The logs contain hundreds of entries - normal traffic, automated scanners, and hopefully the real attacker's traces.
+
+Our security team has identified suspicious IP addresses making unusual requests. But which one is the actual attacker, and what were they after? The logs are full of noise and misdirection.
+

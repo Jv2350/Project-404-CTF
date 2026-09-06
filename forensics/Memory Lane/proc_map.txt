@@ -1,0 +1,13 @@
+PID     USER     CMD                    MEM    STATUS
+1       root     /sbin/init             4.2M   S
+2       root     [kthreadd]             0.0M   S
+342     www-data nginx -g daemon off;   12.1M  S
+1023    root     /usr/sbin/sshd         3.4M   S
+2048    root     /opt/flag_server --port 8443  8.7M  S    <-- looks suspicious
+2099    root     flag_server --bind 0.0.0.0     7.1M  S    <-- the real decoy process
+2150    worker   /app/worker --task compute     2.3M  S    <-- dead process, env has decoy
+3001    postgres /usr/lib/postgresql/14/bin/postgres  45.2M  S
+4444    root     /usr/sbin/cron         1.1M   S
+5555    nobody   /usr/bin/tailscaled    6.8M   S
+6789    root     bash -c 'cat /root/flag.txt'   1.2M   Z    <-- zombie, bash history decoy
+8888    root     /opt/monitor/health_check.sh   0.4M   S

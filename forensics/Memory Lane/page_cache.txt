@@ -1,0 +1,33 @@
+# Page cache dump - collected from /proc/kpagecache
+# Format: virtual_addr  physical_frame  offset  hex_data
+# WARNING: some pages may contain stale data from terminated processes
+
+0xffff888000000000  0x001a3b5c  0x0000  48 65 6c 6c 6f 20 57 6f 72 6c 64 21 0a 00 00 00  |Hello World!....|
+0xffff888000001000  0x001a3b5d  0x0000  ff fe fd fc fb fa f9 f8 f7 f6 f5 f4 f3 f2 f1 f0  |................|
+0xffff888000002000  0x001a3b5e  0x0000  41 42 43 44 45 46 47 48 49 4a 4b 4c 4d 4e 4f 50  |ABCDEFGHIJKLMNOP|
+0xffff888000003000  0x001a3b5f  0x0000  00 11 22 33 44 55 66 77 88 99 aa bb cc dd ee ff  |.."3DUfw........|
+0xffff888000004000  0x001a3b60  0x0000  de ad be ef ca fe ba be 00 00 00 00 ff ff ff ff  |................|
+0xffff888000005000  0x001a3b61  0x0000  50 41 47 45 5f 43 41 43 48 45 3a 20 64 69 72 74  |PAGE_CACHE: dirt|
+0xffff888000006000  0x001a3b62  0x0000  48 65 6c 6c 6f 20 57 6f 72 6c 64 21 0a 00 00 00  |Hello World!....|
+0x0ffff888000071a0  0x001a3b63  0x0000  99 93 9e 98 84 cb 9d 9e cb c9 99 00 00 00 00 00  |................|
+0x0ffff888000071b0  0x001a3b63  0x0010  ce 9b 9a 9d 9a c8 c9 9b cb cd 82 00 00 00 00 00  |................|
+0xffff888000008000  0x001a3b64  0x0000  41 42 43 44 45 46 47 48 49 4a 4b 4c 4d 4e 4f 50  |ABCDEFGHIJKLMNOP|
+0xffff888000009000  0x001a3b65  0x0000  00 11 22 33 44 55 66 77 88 99 aa bb cc dd ee ff  |.."3DUfw........|
+0xffff88800000a000  0x001a3b66  0x0000  de ad be ef ca fe ba be 00 00 00 00 ff ff ff ff  |................|
+0xffff88800000b000  0x001a3b67  0x0000  50 41 47 45 5f 43 41 43 48 45 3a 20 64 69 72 74  |PAGE_CACHE: dirt|
+0xffff88800000c000  0x001a3b68  0x0000  48 65 6c 6c 6f 20 57 6f 72 6c 64 21 0a 00 00 00  |Hello World!....|
+0xffff88800000d000  0x001a3b69  0x0000  ff fe fd fc fb fa f9 f8 f7 f6 f5 f4 f3 f2 f1 f0  |................|
+0xffff88800000e000  0x001a3b6a  0x0000  41 42 43 44 45 46 47 48 49 4a 4b 4c 4d 4e 4f 50  |ABCDEFGHIJKLMNOP|
+0xffff88800000f000  0x001a3b6b  0x0000  00 11 22 33 44 55 66 77 88 99 aa bb cc dd ee ff  |.."3DUfw........|
+0xffff888000010000  0x001a3b6c  0x0000  de ad be ef ca fe ba be 00 00 00 00 ff ff ff ff  |................|
+0xffff888000011000  0x001a3b6d  0x0000  50 41 47 45 5f 43 41 43 48 45 3a 20 64 69 72 74  |PAGE_CACHE: dirt|
+0xffff888000012000  0x001a3b6e  0x0000  48 65 6c 6c 6f 20 57 6f 72 6c 64 21 0a 00 00 00  |Hello World!....|
+0xffff888000013000  0x001a3b6f  0x0000  ff fe fd fc fb fa f9 f8 f7 f6 f5 f4 f3 f2 f1 f0  |................|
+0xffff88800000a000  0x0099aabb  0x0000  00 11 22 33 44 55 66 77 88 99 aa bb cc dd ee ff  |.."3DUfw........|
+0xffff88800000b000  0x0099aabc  0x0000  de ad be ef ca fe ba be 00 00 00 00 ff ff ff ff  |................|
+0xffff88800000c000  0x0099aabd  0x0000  50 41 47 45 5f 43 41 43 48 45 3a 20 64 69 72 74  |PAGE_CACHE: dirt|
+0xffff88800000d000  0x0099aabe  0x0000  48 65 6c 6c 6f 20 57 6f 72 6c 64 21 0a 00 00 00  |Hello World!....|
+0xffff88800000e000  0x0099aabf  0x0000  ff fe fd fc fb fa f9 f8 f7 f6 f5 f4 f3 f2 f1 f0  |................|
+
+# End of page cache dump
+# Statistics: 26 pages analyzed, 0 errors

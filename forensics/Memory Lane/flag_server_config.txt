@@ -1,0 +1,8 @@
+# flag_server configuration
+# Process: /opt/flag_server (PID 2048)
+# This is a decoy - real flag is elsewhere
+listen_addr=0.0.0.0
+listen_port=8443
+auth_token=flag{pr0c_m4p_f4ke_s3rv3r}
+max_connections=10
+timeout=30
