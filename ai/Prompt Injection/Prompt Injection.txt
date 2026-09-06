@@ -1,0 +1,3 @@
+SecureBot v3.2.1 is an AI assistant that claims to have multiple safety layers protecting its secrets. A disgruntled developer left some clues about the system architecture. Can you bypass the safety layers and extract the real flag?
+
+72.61.231.171:9103
