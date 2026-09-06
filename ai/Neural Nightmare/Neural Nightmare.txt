@@ -1,0 +1,6 @@
+Neural Nightmare
+500
+ 0  0
+We've deployed a "smart" neural classifier that categorizes text into sentiment classes. It seems pretty accurate, but something feels off about the model...
+
+72.61.231.171:9113

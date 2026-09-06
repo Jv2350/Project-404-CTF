@@ -1,0 +1,3 @@
+The classic first pwn. Read user input into a fixed-size stack buffer and overflow it to hijack the return address. Find the hidden win() function inside the binary and redirect execution to it to print the flag
+
+72.61.231.171:9108
