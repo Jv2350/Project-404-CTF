@@ -1,3 +1,4 @@
+
 # 🚨 Project 404 CTF
 
 > **One player. Eight categories. Multiple challenges. One leaderboard.**
@@ -22,58 +23,35 @@ The competition covered **8 major categories**, each with its own collection of 
 
 ### 🤖 AI
 
-* Adversarial Patch
-* Model Extraction
-* Neural Nightmare
-* Prompt Injection
+Adversarial Patch · Model Extraction · Neural Nightmare · Prompt Injection
 
 ### 🔐 Crypto
 
-* Baby Lattice
-* Base64 Bonanza
-* Broken Randomness
-* Hex Encounter
-* RSA Recycled
-* RSA Rookie
-* Shim
-* XOR Royal
+Baby Lattice · Base64 Bonanza · Broken Randomness · Hex Encounter · RSA Recycled · RSA Rookie · Shim · XOR Royal
 
 ### 🔎 Forensics
 
-* Data Breach
-* Log Detective
-* Memory Lane
-* Metadata Hunter
+Data Breach · Log Detective · Memory Lane · Metadata Hunter
 
 ### 🐧 Linux
 
-* Capability
-* SUID Relay
+Capability · SUID Relay
 
 ### 🧩 Miscellaneous
 
-* Git Detective
-* QR Code Riddle
+Git Detective · QR Code Riddle
 
 ### 💥 Pwn
 
-* Buffer Overflow 101
-* Format Me
-* ROP Chain
-* Void Machine
+Buffer Overflow 101 · Format Me · ROP Chain · Void Machine
 
 ### ⚙️ Reverse Engineering
 
-* Anti-Debug Maze
-* CrackMe Lite
-* License Check
+Anti-Debug Maze · CrackMe Lite · License Check
 
 ### 🌐 Web
 
-* Blind Fait
-* Cascade
-* Cookie Monster
-* Echo Chamber
+Blind Fait · Cascade · Cookie Monster · Echo Chamber
 
 ---
 
@@ -122,16 +100,16 @@ The goal is not just to store the final answers, but to document the **process o
 
 Across the challenges, the CTF provided practical exposure to:
 
-| Area                   | Concepts                                                       |
-| ---------------------- | -------------------------------------------------------------- |
-| 🤖 AI Security         | Adversarial attacks, model extraction, prompt injection        |
-| 🔐 Cryptography        | RSA, XOR, Lattice problems, encoding, randomness               |
-| 🔎 Forensics           | Logs, metadata, memory and data analysis                       |
-| 🐧 Linux               | Capabilities, SUID and privilege escalation                    |
-| 💥 Pwn                 | Buffer overflows, format strings, ROP                          |
+| Area                     | Concepts                                                       |
+| ------------------------ | -------------------------------------------------------------- |
+| 🤖 AI Security           | Adversarial attacks, model extraction, prompt injection        |
+| 🔐 Cryptography          | RSA, XOR, Lattice problems, encoding, randomness               |
+| 🔎 Forensics             | Logs, metadata, memory and data analysis                       |
+| 🐧 Linux                 | Capabilities, SUID and privilege escalation                    |
+| 💥 Pwn                   | Buffer overflows, format strings, ROP                          |
 | ⚙️ Reverse Engineering | Debugging, binary analysis, license checks                     |
-| 🌐 Web                 | SQL injection, authentication, cookies and web vulnerabilities |
-| 🧩 Misc                | Git investigation, QR-based challenges                         |
+| 🌐 Web                   | SQL injection, authentication, cookies and web vulnerabilities |
+| 🧩 Misc                  | Git investigation, QR-based challenges                         |
 
 ---
 
