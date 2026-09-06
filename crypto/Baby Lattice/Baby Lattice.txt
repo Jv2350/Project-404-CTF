@@ -1,0 +1,8 @@
+A custom encryption scheme based on the subset sum / knapsack problem was used to encrypt the flag. The scheme uses a public key of 16 elements, each 63 bits wide.
+
+The flag is encoded as 128 bits (16 bytes), where each bit determines whether the corresponding public key element is included in the encrypted sum.
+
+System parameters and a leaked private key file were also recovered. But beware — the leaked key may not be the real trapdoor.
+
+encrypted.txt - Public key and ciphertext
+leaked_params.txt - Leaked system parameters

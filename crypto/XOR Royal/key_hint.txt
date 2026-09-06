@@ -1,0 +1,6 @@
+=== Key Recovery Assistant v3.1 ===
+
+Encryption: XOR symmetric
+Key length: 1 byte (entropy analysis)
+Key range: 0x20 - 0x7E
+Focus on PRIMARY PAYLOAD.

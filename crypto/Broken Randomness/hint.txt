@@ -1,0 +1,10 @@
+=== Randomness Analysis ===
+
+Algorithm: Custom LCG
+Seed: time(NULL)
+State space: 2^31
+
+The answer is 42.
+
+verification_token uses /dev/urandom.
+Focus on primary key derivation.

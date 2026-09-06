@@ -1,0 +1,4 @@
+Three RSA ciphertexts were intercepted from different systems. Each uses its own key pair, but the key generation process had a critical flaw — parameters were recycled between systems.
+
+Additionally, one of the systems used an unusual public exponent. Analyze all three ciphertexts and their key material to recover the flag.
+

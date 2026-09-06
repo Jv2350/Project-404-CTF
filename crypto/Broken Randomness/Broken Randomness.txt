@@ -1,0 +1,7 @@
+A server encrypted a flag using a custom PRNG seeded with the system clock. We captured the server's output including the encrypted flag and a verification token.
+
+The server uses a linear congruential generator (LCG) seeded with time(NULL). The clock drift is approximately ±2 seconds. The verification token uses a separate, cryptographically secure random source.
+
+Can you predict the PRNG output and recover the flag?
+output.txt - Captured server output
+hint.txt - Analysis report

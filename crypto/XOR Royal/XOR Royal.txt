@@ -1,0 +1,8 @@
+XOR Royale
+
+Intelligence suggests the flag was encrypted with a simple XOR cipher. We recovered the ciphertext along with a key recovery tool that analyzes the encryption.
+
+The tool reports the key is only 1 byte, but can you trust its analysis? Multiple encrypted segments were found in the data.
+
+ciphertext.bin - Binary ciphertext with multiple segments
+key_hint.txt - Key recovery assistant output

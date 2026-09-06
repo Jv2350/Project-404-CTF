@@ -1,0 +1,9 @@
+{
+  "timestamp": 1724630400,
+  "encrypted_flag": "7d9c26de60c6268c78c3228178c422df7fc7778c788d",
+  "verification_token": "844bc9d3efc3beb91eae172c0cda9474",
+  "algorithm": "LCG-custom-v2"
+}
+
+Captured at: 2024-08-26 00:00:00 UTC
+Clock drift: +/-2 seconds
