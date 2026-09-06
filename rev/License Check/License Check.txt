@@ -1,0 +1,1 @@
+A license key validator with two phases. Pass the format check, and you'll think you're close... but there's more to it than just the right format. The cryptographic verification uses a custom checksum algorithm. Can you reverse it?

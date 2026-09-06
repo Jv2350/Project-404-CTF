@@ -1,0 +1,2 @@
+A binary with multiple anti-debugging protections. It uses ptrace detection, TracerPid checks, and timing analysis to detect debuggers. If it detects a debugger, it shows decoy code. The real flag computation only happens when the binary runs without any debugger attached.
+

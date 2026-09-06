@@ -1,0 +1,1 @@
+A simple password checker that asks for a 4-character password. The debug output might give you some ideas, but be careful - not everything is as straightforward as it seems. Sometimes the obvious path isn't the right one.
