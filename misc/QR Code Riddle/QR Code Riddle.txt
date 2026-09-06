@@ -1,0 +1,9 @@
+QR Code Riddle
+
+A mysterious package arrived with three QR codes. Each QR code seems to tell a different story. Can you piece them together?
+
+Files:
+
+src/qr1.png
+src/qr2.png
+src/qr3.png
