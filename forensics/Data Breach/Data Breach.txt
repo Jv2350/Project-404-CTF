@@ -1,0 +1,7 @@
+You have been dropped into the aftermath of a corporate breach. A network capture was taken from a compromised workstation right before the incident was contained. Your job: figure out what data was exfiltrated and recover the flag.
+
+You are given a single artifact:
+
+capture.pcap — a full packet capture of the compromised host's activity
+There is a lot going on in this capture. Attackers love to hide their real exfil in plain sight, surrounded by noise and false trails. Don't believe everything you see.
+
